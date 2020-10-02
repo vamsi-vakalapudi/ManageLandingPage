@@ -62,7 +62,7 @@
   border: none;
 }
 .overlay {
-  background-image: url('/images/bg-tablet-pattern.svg');
+  background-image: url(/images/bg-tablet-pattern.svg);
   background-position: 960px -60px;
   background-repeat: no-repeat;
   background-size: auto 600px;
